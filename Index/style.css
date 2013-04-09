@@ -1,14 +1,61 @@
+@font-face {
+  font-family: "Source Sans Pro";
+  weight: 300;
+}
+@font-face {
+  font-family: "Source Sans Pro";
+  weight: 400;
+}
+@font-face {
+  font-family: "Source Sans Pro";
+  weight: 700;
+}
+@font-face {
+  font-family: "Source Sans Pro";
+  weight: 300;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Source Sans Pro";
+  weight: 400;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Source Sans Pro";
+  weight: 700;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Ubuntu Mono";
+  weight: 400;
+}
+@font-face {
+  font-family: "Ubuntu Mono";
+  weight: 400;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Ubuntu Mono";
+  weight: 600;
+}
+@font-face {
+  font-family: "Ubuntu Mono";
+  weight: 600;
+  font-style: italic;
+}
+.container {
+  margin-top: 2em;
+}
 body {
   background: #fff;
   padding-bottom: 40px;
+  font-family: 'Source Sans Pro', sans-serif;
 }
 h1,
 h2,
 h3,
 h4 {
-  color: #a0a0a0;
-  font-family: 'Open Sans', Verdana;
-  text-transform: uppercase;
+  font-family: 'Source Sans Pro', sans-serif;
   font-weight: 400;
 }
 h1 {
@@ -19,10 +66,9 @@ p,
 li,
 blockquote {
   font-family: 'Open Sans', Verdana;
+  font-weight: 300;
 }
-font-weight 300 tfoot th,
 table tfoot th,
-font-weight 300 tbody th,
 table tbody th {
   border-top: 1px solid #ddd;
 }

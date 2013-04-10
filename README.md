@@ -1,7 +1,13 @@
-This is my personal website, created with Twitter Bootstrap. 
+This is my personal website, created with Bitters & my own customizations. 
+
 Domain name is forward masked instead of using CNAME attributes with GoDaddy.
 
-Index.html is the main page that uses a daily "stream" that is deleted by hand every 30 days.
 
-In the future, this website will be overhauled to incorporate Docpad and hopefully a minimalist forum for messages in replacement of e-mail.
+
+"The Life Stream has gotten a major overhaul if you haven't noticed. From now on and into eternity, it will only show posts for the past week. Then *poof!* they dissapear into a pile of glittery fairy dust."
+
+Index.html is the main page that uses a daily "stream" that is deleted by hand every 7 days. 
+
+
+In the future. This site will use Docpad. Right now I am experimenting with Brackets. 
 

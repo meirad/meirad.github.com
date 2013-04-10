@@ -6,5 +6,5 @@ The Life Stream has gotten a major overhaul  if you haven't noticed. From now on
 Although I'm not truely sure how long these thought posts will be living, before they too expire into glittery magic. I might keep them on for a few weeks, maybe a month. It all depends on frequency.<br><br>
    For those of you that wonder why these posts burst into magicky goodness, instead of living on forever. I say this: <br><br>
      <i>"I went to the woods because I wished to live deliberately, to front only the essential facts of life, and see if I could not learn what it had to teach, and not, when I came to die, discover that I had not lived."</i>~ Henry David Thoreau <br><br>
-  What better gift can one give, that to let another live? These posts collapse into nothingness, so that other's can live. Don't stay on the web all day. Go out and truely experience life.
+  What better gift can one give, than to let another live? These posts collapse into nothingness, so that other's can live. Don't stay on the web all day. Go out and truely experience life.
        

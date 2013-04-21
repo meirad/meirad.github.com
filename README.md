@@ -1,4 +1,4 @@
-This is my personal website, created with Bitters & my own customizations. 
+This is my personal website.
 
 Domain name is forward masked instead of using CNAME attributes with GoDaddy.
 
@@ -6,7 +6,6 @@ Domain name is forward masked instead of using CNAME attributes with GoDaddy.
 
 Index.html is the main page that uses a daily "stream" that is deleted by hand every 7 days. 
 
-Will overhaul in the future to include Bitters and export this code into a new repo. 
 
 
 

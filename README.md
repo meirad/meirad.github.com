@@ -6,7 +6,9 @@ Domain name is forward masked instead of using CNAME attributes with GoDaddy.
 
 Index.html is the main page that uses a daily "stream" that is deleted by hand every 7 days. 
 
+The only part of this website that's copyrighted is the Skeleton.css etc. Currently looking for a replacement to make this website completly uncopyrighted.
 
+This website is based on Bitters by Gwen Bell, but is not an instance of Bitters. 
 
 
 

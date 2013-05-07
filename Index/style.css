@@ -90,12 +90,12 @@ footer {
 }
 a,
 a:link {
-  color: #666;
+  color: ##57C1B1;
   font-weight: 700;
   text-decoration: none;
 }
 a:hover {
-  color: #515151;
+  color: #57C1B1;
 }
 .stream p:first-child {
   font-size: 2em;

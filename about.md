@@ -1,6 +1,6 @@
 About
 ====
-I'm a student, hoping to pursue a double major in Anthropology and Design/Developement. I live in the middle of nowhere in Missouri, moving this summer to Washington state. I don't have a job. But that doesn't mean I don't work. Everyday, I'm either tweaking code, learning something new on the tech scene, or studying.
+I'm a student, hoping to pursue a double major in Anthropology and Design/Developement. I live in the middle of nowhere in Missouri, moving this summer to Washington state.<em> I don't have a job. But that doesn't mean I don't work.</em> Everyday, I'm either tweaking code, learning something new on the tech scene, or studying.
 
 Currently I'm car-free, but this might change in the future. When it does, be assured it will be something minimalist and eco-friendly. I'm thinking C-1 Lit, by Lit Motors. ...
 
@@ -10,4 +10,6 @@ In the future, I hope to delve into the world of Socialstructing, use alternativ
 <hr>
 Uncopyright
 ---
+I'm currently working on incorporating Bitters and Uncopyright principles to this website. As of right now, the content of this website is completely copyright free.
 
+* Content includes all articles, notes, snide remarks and grammatical errors.

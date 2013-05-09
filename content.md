@@ -1,14 +1,18 @@
+ 09 May | Loving Librivox audiobooks. Still sick. Reading over Egyptology final essay questions on the Ptolemaic Period & Alexandria.
 
-<div class="mark">29 Apr 2013 | Staying cool. It's supposed to be hot all week.</div>
+08 May | Caught a cold. Stuck in bed all day being bored out of mind.
 
-28 Apr 2013 | Went to a play last night. Debating on whether or not I want to leave Android for Ubuntu or Firefox os. Working on making this site Uncopyright.
+07 May | Today is laundry day. Makes me wonder why we all buy washing machines. Not many of us can make a full load of laundry.
 
-26 Apr 2013 | Reading The Great Donut by Seth Godin, published: 2046. Left Picasa. Officially left G**gle Search.
+06 May | Another wonderfully tempting stormy day. Cleaning Starbucks tank, up to my elbows in algae.Ick!
 
-25 Apr 2013 | Listening to the band. Left G**gle+ and Pinterest. Read here about the scary things G**gle could do.
+05 May | Listening to the rain fall. Apple blossoms all over the front yard. Changed my email. It is officially meira@meiradatiya.com. Rockin out to Queen.
 
-24 Apr 2013 | fueling up for a day of writing.
-<br>
+03 May | Reading "A Guide to the Good Life: The Ancient Art of Stoic Joy". Started 1st change in 52 changes, meditate. While listening to the rain and sipping hot tea.
+
+02 May | Finishing up reading 52 Changes. Had to put off jQuery learning for a few weeks; finals are here.
+
+01 May | Reading 52 Changes by Leo Babauta.<br>
 <hr>
 Notes
 ----

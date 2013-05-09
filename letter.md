@@ -1,18 +1,29 @@
-<center>Bureau of Investigation and Detainment of Gen. Flux.
-============
-They creep up, like a stalker hidden in the shadows of a dark alley way. Their name? ' Generation Flux' . Who are these people? Where do they come from? They shift and slip through the crowd, melting into invisibility. They bother the masses. Annoy them with ideas, panic and provoke with creativity, adaptation, and reflex. Instead of driving safe cars down the streets. They 'free run', 'bike', 'motorcycle', 'velocity stilt', and 'zig zag' through the streets, before disappearing. ...
+###When the Winds Assail 
+<strong><center>"Why, then, do you wonder that good men are shaken in order that they may grow strong? No tree becomes rooted and sturdy unless many a wind assails it. For by its very tossing it tightens its grip and plants its roots more securely; the fragile trees are those that have grown in a sunny valley. It is, therefore, to the advantage even of good men, to the end that they may be unafraid, to live constantly amidst alarms and to bear with patience the happenings which are ills to him only who ill supports them." ~ Seneca</center></strong>
 
-Instead of having job where they work a steady 12 hours a day. They travel, moving constantly to one destination or another. They group together and go their separate ways. They don't have jobs. They have ' upstarts' . They don't contribute to the economy, instead they use digital codes and paper, which they call ' bitcoins' and ' community currencies' . When they do buy something, which is seldom, they keep it so long that it has needed repair dozens of times. Instead of tossing these disposable products into the nearest receptacle, they then learn how to repair these items themselves.
+Today, the wind assailed me. it shook me to my core, for about an hour. Here's what happened. 
 
-Instead of living in sturdy homes built in sprawling subdivisions. They live in apartments, yurts, other peoples homes, tipi's,tents, vans or 'tiny homes'. Some of them even tout that the ' commons' will save us. Well, how can that be? If we use our available commercial space for ' gardens' and ' community events' we would all starve.
+Saturday my sister received a letter from our college stating that she had mistaken some information on her FAFSA and to correct it. We did and today she went to turn it in. 
 
-These people have affected our way of life. They spread the falsifications that things such as our educational system should be free. That consumerism is wrong and that we should embrace ' minimalism' . That software should be ' open-source' and freely given. These people are a danger to our society that has been built on the principles of consumerism, mass production, above all corporate loyalty. If we don't fund our agricultural corporations, who will feed us? If the government doesn't spend millions offsetting our oil companies, how will we travel? If we don't work our allotted 12+ hours a day, our society would crumble and we would have nothing to do, but stare at our white walls all day.
+When she came home, I have honestly never seen anyone more stressed. They said she would have to pay for the entire semester (even though her  Pell Grant came through). They said, she didn't qualify for college anymore, even though she has attened for two years. They told my 18 year old sister to cough up the cash and go back to highschool.
 
-This menace must be stopped. Anywhere you see a ' Generation Flux' in action. Report them immediately. If you hear anyone spouting about the ' commons' , ' green space' ,' vegetarianism' , ' open-source' , ' free' , ' Bitcoins' , ' hacking' , ' bootstrapping' , ' kickstarting' , ' upstarting' ,' yoga' , ' green economy' , ' unlocked' , ' debt free' , ' couchsurfing' , and above all ' global warming' or ' climate change' . In addition but not limited to, speaking multiple foreign languages, slang, and all self sufficient activities. Please call your local Flux Detainment Facility.
+Then it hit me. Shit. Her Pell grants were worth over $5,000. Then she told me, I'm in the same boat. I'm supposed to cough up the cash as well. They said they no longer support the "Ability to Benefit" which allows alternative students to attend college.
 
-This message is brought to you by your local subdivision mayor; Mayor <strong>Bill MeMore</strong>. In association with your local Flux Detainment Facility, a subgroup of the Bureau of Investigation and Detainment of Gen. Flux.
+We now may be facing payments of over $10,000 dollars on money the college accepted but wouldn't use to cover our accounts. On top of this they said it was the governments fault for allowing us to attend in the first place. That we should drop all of our classes immediately, one week away from finals.
 
-Thank you & Remember. Corporations serve the people.</center>
+To put it lightly, I felt as if my soul had been scraped away from my body. I was hollow. I still am a little scared. 
+But what can I do? Then it hit me. I've been reading this book on Stoicism all week, this is the opportune moment to be a badass Stoic sage. 
+
+So, Que Sera Sera. Whatever will be wiil be. I might not have been a Stoic for the first hour after hearing this news. But now that i'm writing this, I could really care less. The college we attend is manipulative and crafty, they do this to their students on an almost daily basis. What really hurt wasn't the fact that they sprung this on us last minute, or that we might have to pay $10,000 dollars that we don't have. It was the fact, that they actually told my sister to go back to highschool. That burned. 
+
+Now that an hour has passed though, I remembered something I read. <strong>"... [W]hen we feel ourselves getting angry about something, we should pause to consider its cosmic insignificance."</strong> If this is true and the winds assail a tree to make it strong. I'm a mighty ass Stoic Oak. I don't blame them anymore. Unintelligence and ignorant policies are things everyone must deal with, and isn't it true that compared to all things, perhaps a little bit insignificant? 
+
+<hr>
+###Notes###
+ <div class="mark">This is an experiment in replacing Tiny Letter. In advance of going completely 100% copyright free. There will be grammar errors in this transition, people aren't perfect and I'm definitely not. 
+ <strong>If the above amuses you, provokes you to think more about it, etc. Share it. Fix the grammar errors, write it in chalk on the streets. It doesn't matter. Creativity is in your hands.</strong></div>
+
+<br><br>
 <hr>
 Notes
 -----

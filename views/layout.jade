@@ -1,0 +1,17 @@
+doctype 5
+html
+  head
+    title= title
+    link(rel='stylesheet', href='/stylesheets/base.css')
+    link(rel='stylesheet', href='/stylesheets/skeleton.css')
+    link(rel='stylesheet', href='/stylesheets/layout.css')
+    link(rel='stylesheet', href='/stylesheets/style.css')
+    link(rel='stylesheet', href='/stylesheets/print.css')
+    link(rel='stylesheet', href='/stylesheets/hummingbird.js')
+    
+  body
+    .container
+      .ten.columns
+        block content
+      .five.columns.offset-by-one.sidebar
+        include sidebar.jade

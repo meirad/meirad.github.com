@@ -1,0 +1,2 @@
+June 14  | Ebook
+ As you know, I've been writing an ebook recently. There are little hints on the front page of this website. Psst. look in the sidebar for the "coming soon". Anyway, I bet a lot of you are wondering what it's about. Well, it's about superheroes, more specifically, "Your Inner Superhero".  I don't want to give a lot of info away yet, I'm just now pounding on the keys to finish chapter two. But if you are one of those people who love movies, specifically the heroes and the villians. This just might be a book you want to read.

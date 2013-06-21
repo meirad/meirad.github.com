@@ -6,7 +6,7 @@ Domain name is forward masked instead of using CNAME attributes with GoDaddy.
 
 The only part of this website that's copyrighted is the Skeleton.css etc. Currently looking for a replacement to make this website completly uncopyrighted.
 
-This website is based on Bitters by Gwen Bell, but is not an instance of Bitters. In the future I will convert it over though.
+This website is based on Bitters by Gwen Bell, but is not an instance of Bitters. It runs both Bitters and Bootstrap. But isn't based on Node.js. In the future I might convert it over to Bitters, if I don't, I'll make it it's own creature. This is a work in progress. 
 
-
+This website blank slates, all letters can be found in the Archive.  The life stream isn't backed up, 100% blank slate.
 

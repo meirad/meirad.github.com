@@ -1,0 +1,36 @@
+doctype 5
+html
+  head
+    title= title
+    meta(name="viewport", content="width=device-width, initial-scale=1, maximum-scale=1")
+    link(rel='shortcut icon', href='/images/favicon/favicon.ico')
+    link(rel='stylesheet', href='/stylesheets/base.css')
+    link(rel='stylesheet', href='/stylesheets/skeleton.css')
+    link(rel='stylesheet', href='/stylesheets/layout.css')
+    script(type='text/javascript', src='javascripts/highlight.min.js')
+    link(rel='stylesheet', href='/stylesheets/monokai_sublime.css')
+    link(rel='stylesheet', href='/stylesheets/style.css')
+  body
+
+    script(type='text/javascript') hljs.initHighlightingOnLoad();
+
+    .container.navbar.navbar-top
+      .ten.columns.offset-by-two
+        ul
+          li 
+            a(href='/') Meira Datiya
+          li 
+            a(href='/about') About
+ 
+          li 
+            a(href='/writing') Writing
+          li
+            a(href='mailto:meira.datiya@gmail.com') Contact
+
+
+    .container
+      
+      .five.columns.sidebar
+        include sidebar.jade
+      .ten.columns.offset-by-one
+        block content  

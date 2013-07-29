@@ -1,0 +1,13 @@
+
+
+/* Clearfix hack by Nicolas Gallagher: http://nicolasgallagher.com/micro-clearfix-hack/ */
+.clearfix:before, .clearfix:after { content: " "; display: table; }
+.clearfix:after { clear: both; }
+
+
+p.support {
+	font-weight: 700;
+	text-align: center;
+	padding: 2em;
+}
+

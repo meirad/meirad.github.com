@@ -61,6 +61,9 @@ img {
 }
 body {
   background: #F6FEFE;
+      background-image:url('01 copy.jpg');
+     background-repeat: no-repeat; 
+         background-attachment: fixed;
   padding-bottom: 40px;
   font-family: 'Source Sans Pro', sans-serif;
 }

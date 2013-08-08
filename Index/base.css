@@ -52,6 +52,9 @@
 ================================================== */
 	body {
 		background:#333333; 
+		background-image:url('01 copy.jpg');
+		background-repeat:no-repeat;
+		 background-attachment: fixed;
 		font: 14px/21px "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
 		color: #333333;
 		-webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
@@ -232,7 +235,12 @@
 		max-width: 100%;
 		display: block;
 		margin-bottom: 20px;
-		background: #fff; }
+		background: #fff;	
+               background-image:url('01 copy.jpg');
+     background-repeat: no-repeat; 
+         background-attachment: fixed;
+     }
+
 	select {
 		padding: 0; }
 	input[type="text"]:focus,

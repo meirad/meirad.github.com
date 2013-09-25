@@ -177,3 +177,7 @@ a:hover {
   margin-bottom: 0.5em;
   padding: 0.5em;
 }
+.imgfloat{
+float:left;
+margin-right:10px;
+}

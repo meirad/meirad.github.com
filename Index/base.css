@@ -36,7 +36,8 @@
 	body {
 		line-height: 1; }
 	ol, ul {
-		list-style: none; }
+		list-style: none; 
+		color: #434141;}
 	blockquote, q {
 		quotes: none; }
 	blockquote:before, blockquote:after,
@@ -51,9 +52,9 @@
 /* #Basic Styles
 ================================================== */
 	body {
-		background: #fff;
+		background: #ffffff;
 		font: 14px/21px "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
-		color: #444;
+		color: #434141;
 		-webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
 		-webkit-text-size-adjust: 100%;
  }
@@ -62,8 +63,8 @@
 /* #Typography
 ================================================== */
 	h1, h2, h3, h4, h5, h6 {
-		color: #181818;
-		font-family: "Georgia", "Times New Roman", serif;
+	            color: #434141;
+		font-family: "Georgia", Helvetica neue,;
 		font-weight: normal; }
 	h1 a, h2 a, h3 a, h4 a, h5 a, h6 a { font-weight: inherit; }
 	h1 { font-size: 46px; line-height: 50px; margin-bottom: 14px;}
@@ -94,9 +95,9 @@
 
 /* #Links
 ================================================== */
-	a, a:visited { color: #333; text-decoration: underline; outline: 0; }
-	a:hover, a:focus { color: #000; }
-	p a, p a:visited { line-height: inherit; }
+	a, a:visited { color: #333; text-decoration: underline; outline: 0; font-family: Helvetica neue; }
+	a:hover, a:focus { color: #000;  font-family: Helvetica neue; }
+	p a, p a:visited { line-height: inherit; font-family: Helvetica neue;  }
 
 
 /* #Lists
@@ -265,8 +266,5 @@
 	.remove-bottom { margin-bottom: 0 !important; }
 	.half-bottom { margin-bottom: 10px !important; }
 	.add-bottom { margin-bottom: 20px !important; }
-
-
-
 
 

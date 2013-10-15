@@ -1,0 +1,5 @@
+Football
+-----
+So, football. Not my sport. It's not that I don't get the game. I do, but I honestly don't see the point. Everything expensive, very consumerist. I mean my soda was $9.95, I'm just grateful I had a free drink & hot dog pass. As for the game itself? I was in row UU, the nosebleed section, and what I saw was not worth the $48 dollars. Did you know during commercials they just stop playing? Everyone's drunk, everyone's screaming, some people are paling out from the heights and the players are just taking another break after playing for a minue and a half. I prefer baseball, soccer, lacrosse, these are really games. Full of sweat, blood, broken bones and glory. Football? Not so much. ... 
+
+The upside? I saw some amazing sculptures on the riverfront, discovered a wax museum (Iron Man, Nosferatu, Raptors, the Joker), walked down cobblestone paths and saw three horse carriages. Which sort of made me wonder. Are St.Louis horses under the same unhealthy living conditions as in New York? 

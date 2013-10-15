@@ -1,0 +1,16 @@
+June 02 ~ Home | Specters
+Today I was looking at some photographs I took after the horrible storm that happened a few days ago. I was attempting to take photo's of a beautiful double rainbow that lit up the sky. Instead, the rainbows barely showed up in my photo's, but there were strange wormlike glowing shapes in front of my neighbors door. He said today that about a foot of the bottom of his door was chewed to pieces. I showed family the photo's of the strange orange glowing shapes. We had an small argument about whether it was a street lamp and I took the photo half pressed into a door to get the shot etc.
+ 
+Then I asked my mom to turn on the tea boiler. It was on less than a minute when it started smoking. The entire thing was bubbling and glowing orange through the white and clear plastic. Mom ran over and yanked the cord out of the wall. She lifted the lid looked inside and said the metal coils were bubbling. She ran outside with it and quickly chucked it. It was strange. It was like one of those moments from Ghostbusters. I half expected the eggs to start flying out of their carton and the fridge to glow. It's been quite a strange day so far. ...
+
+<hr>
+May 31 ~ Home | From College to Work
+
+I'm sitting here listening to the thunder rolling. It sounds like the titans are at war. It's not the normal sound you expect with thunder. Oreo's curled up on the couch snoozing and i'm drinking a frothy iced tea. While contemplating purging stuff and what it means to get a job after college.  I read an article from good.is today about how students after college don't want to live the lifestyle of the previous generations. That the thought of holding a 10+ hour a day jobs that sucks your soul away isn't worth it anymore. So much so, that people are moving away from cities, or getting rid of their possessions, just so they don't have to. 
+
+I couldn't agree more. I didn't attend college to prepare for a life of dark proletarianism. My main reasons for attending college were to expand my horizons and learn new things. After two and a half years, I can tell you about the history of Ancient Egypt, the life of Abraham Lincoln, gravity wells, or how to draw a plant to scale. But are these things that will get me ahead in life? Or get a job? Probably not. But they were worth every minute to me. 
+
+When I finish my degrees I hope to be able to have enough money to live on comfortably. It might me $30,000 a year or a $150,000 I truely don't care. Have you ever watched "The Good, The Bad, And The Ugly?" The one guy comes in to get three other guys to help him kill "blondie." He says something like, "Why do you work for a living, but kill yourself working?" He has a point. We've reached unsustainability in our finances. If we have to kill ourselves working for things we don't need but only want and don't have time for ourselves, we aren't living anymore, we're slaves to consumerism.
+
+But where's the balance? What keeps the scales even. Can there be a balance between time for ourselves and others, while still being able to afford, say a home? I hope to find out, and when I do, I'll write to you about how I found or didn't find it. I'm thinking it might be a mixture of self reliance, sustainability, and diversification, but time will tell.
+ 

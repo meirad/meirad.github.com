@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="Index/bmi.js" language="javascript"></script>
+<title>Garnet | Writer </title>
+<link rel="icon" href=".jpg" type="image/x-icon">
+<link rel="stylesheet" href="Index/base.css">
+<link rel="stylesheet" href="Index/skeleton.css">
+<link rel="stylesheet" href="Index/layout.css">
+<link rel="stylesheet" href="Index/style.css">
+<link rel="stylesheet" href="Index/print.css">
+<link rel="stylesheet" href="Index/custom.css">
+<link rel="stylesheet" type="text/css" href="css/default.css" />
+<link rel="stylesheet" type="text/css" href="css/style4.css" />
+<link rel="stylesheet" type="text/css" href="css/style2.css" />
+
+<script src="js/modernizr.custom.js"></script>
+<style type="text/css">
+body{ background-image:url('01 copy.jpg');
+background-repeat: no-repeat;
+background-attachment: fixed;
+}
+</style>
+</head>
+ <body>
+<div class="container navbar navbar-bottom">
+<div class="ten columns offset-by-two">
+
+<ul>
+<li> <a href="index.html">Garnet</a></li>
+<li> <a href="about.html">About</a></li>
+</ul>
+ </div>
+</div>
+
+<div class="container">
+<div class="five columns sidebar">
+<div class="main clearfix">
+<div class="square">
+</div>
+</div>
+
+<br><h3><strong>Vim & Terminal Basics</strong></h3>
+<hr></div>
+
+
+
+<div class="ten columns offset-by-one"><center><h4><u><strong>Intro.</strong></u></h4></center>
+
+<ul>
+	<li><p>	The best way to describe Vim is that it's a text editor you write with. But instead of leaving it at that, there's all these secret commands that you can type that make it do so much more. You can get help, learn from a built in tutorial, or remove and edit whole paragraphs with a simple keystroke or two. 
+	</p>
+	<p>	In this e-book, you'll learn some basic commands that you can use everyday and how to start using the command line / terminal without having a heart attack while on your Mac. It's not dark magic, it's not something that only programmers and people with P.H.D's can learn. It's simple and once you get the hang of it I promise you won't be disappointed. You might even get addicted and become a programmer or writer that works solely with Vim. You never know. ... </p></li>
+
+	<center><h4><u><strong>Terminal</strong></u></h4></center>
+
+	<li><div class=code><font color="#62E9B5"> $ /Users/md/Downloads/MacVim-snapshopt-70/mvim ; exit;</font color></li> 
+	<p>I'm going to assume you know how to download a piece of software and install it on your computer. So, head over to Vim's site at __________ and download MacVim. 
+
+	Locate the file, it should say something like this "MacVim-snapshot-70" in a zip file. Unzip it and double click to look inside. You should see three files:<strong> MacVim, mvim, and a README.txt.</strong> 
+	</p>
+	<p>	Double clicking MacVim opens it outside of the terminal. You can use it this way, but it's ugly and doesn't leave that much room for customizing and if you are on a Mac, color is probably important to you. So, we are going to click mvim. This will initialize the installation process in the terminal that will resemble the image below.
+	</p>
+	<p> <img src= "vimpics/1.png" height="?" width="??" alt="snap" /></a>  </p>
+
+	<p>* Everywhere there is a white line is just a security measure I added to the image. So don't get freaked that yours doesn't have those funny lines. It just represents your user's name and the name of the computer you are operating on. </p>
+	
+<p>Now what? Now you learn your Terminal. Then we'll get on to vim. Exit out of the terminal by click the red x. Then open a new window by going up to where it says terminal and clicking <strong>shell > new window</strong>. After your new window is open, we are going to play around with some random commands to help you learn more. But first, some fun ones.</p>
+
+<li><div class=code><font color="#62E9B5"> $ cal</font color></li> 
+<p>cal - If you type this and hit enter (<strong>cal > enter</strong>) you will see the current month in a mini calendar form. You can also type in a year after cal to see any year's entire calendar. </p>
+<p><center><img src= "vimpics/2.png" height="?" width="??" alt="snap" /></a></center></p>
+<p><center><img src= "vimpics/3.png" height="?" width="??" alt="snap" /></a></center></p>
+
+ <p><center>* Hmm... It seems in the year 3000 my birthday is on a Monday. Very interesting. ...</center></p>
+
+<p>What else can we do? How about one of those weird words made out of hashes? That's accomplished with banner.</p>
+<li><div class=code><font color="#62E9B5">$ banner </font color> 'word'</li>
+<p><center><img src= "vimpics/4.png" height="?" width="??" alt="snap" /></a></center></p>
+
+<p>Something you'll use everyday is <strong>cd</strong>. This allows you to switch to a folder on your computer and work inside of it instead of double clicking. Think of it as teleporting instead of walking, you get to skip some of the steps and you don't have to listen to your noisy neighbors on the way. </p>
+
+<p>In order to keep your Vim files organized, you are going to be using this and a few other commands a lot. So remember it! One of the most useful ways of using this is to point it to your user file and then to a file within it. For me, it looks a little like this.</p>
+
+	<li><div class=code><font color="#62E9B5"> $ cd /Users/</font color> 'user name' <font color="#62E9B5">/ </font color>'home folder' <font color="#62E9B5">/</font color> 'file folder'</li> 
+	<br>
+	<p><strong>Example:</strong></p>
+	<li><div class=code><font color="#62E9B5"> $ cd /Users/md/md.github.com/</font color></li> 
+
+<p>*This point me to my github website folder stored on my computer. After that, I can use some other commands to edit the files within that folder. </p>
+
+<p>So, your next task is to cd into your user / home file and make sure you take a note on how to do it so you don't forget in the future. Here's how it should look. </p>
+<p><center><img src= "vimpics/5.png" height="?" width="??" alt="snap" /></a></center></p>
+<p>If you don't know what your username / home file is named (This happens sometimes when someone else sets up your computer or you are under someone else's settings) just look at the word in between these symbols (<strong>~, $</strong> ) and type that after <strong>/Users/</strong>. Another simple way to check this is by opening finder and looking at the icon of the house, whatever name is there is what you need to know. </p>
+<p><center><img src= "vimpics/6.png" height="?" width="??" alt="snap" /></a></center></p>
+
+<p>Now we need to create a folder to hold your files you write from Vim. We can do that with the mkdir command. </p>
+
+<p>For this example, we’ll just create a folder named: “Etsy Blog Posts”. Later we’ll add files to it and write them in the Terminal with Vim. </p>
+<li><div class=code><font color="#62E9B5"> $ cd /Users/md/</font color></li> 
+<li><div class=code><font color="#62E9B5"> $ mkdir EtsyBlogPosts</font color></li> 
+
+<p>If there are spaces between the words it will only create a file with the first word as it's title. So don't use any spaces when creating the file.</p>
+<p><center><img src= "vimpics/7.png" height="?" width="??" alt="snap" /></a></center></p>
+<p>When this is finished. You should be able to travel to your home folder and see the file shown on the right.</p>
+<p><center><img src= "vimpics/8.png" height="?" width="??" alt="snap" /></a></center></p>
+<p>Before we populate our new folder with stuff from VIM. I want to show you one last Terminal hack. We are going to customize the terminal. Right now if you are on a Mac it's probably white and completely boring. But did you know you can change the background and colors? </p>
+
+<p>Under Terminal go to preferences and add a new theme by clicking the + button. 
+<center><strong>Terminal > Preferences > +</center></strong></p>
+<p><center><img src= "vimpics/9.png" height="?" width="??" alt="snap" /></a></center></p>
+<p>You should see a small pink and white box show up in the left panel for you to rename. </p>
+<p><center><img src= "vimpics/10.png" height="?" width="??" alt="snap" /></a></center></p>
+<p>Name it to whatever you wish and adjust the settings to your preference. You can choose which style and color of cursor you want here as well as what font etc. When finished adjusting those settings, you can click the window button to change the background as well as other settings.</p>
+<p><center><img src= "vimpics/11.png" height="?" width="??" alt="snap" /></a></center></p>
+<p>Once you find an image on your computer that you want to be your background the last thing to do is to set you new settings to default. Click on your newly created settings icon on the left and then select default. Once you exit out your Terminal and reopen it the settings should be reset.</p>
+<p><center>On to Vim!</center></p>
+<br>
+<center><h4><u><strong>Vim</strong></u></h4></center>
+<p>When I first started using Vim I searched G**gle for various tutorials and attempted to use them. I used such tutorials as, "A Vim Primer" and "Learn Vim Progressively". The first few paragraphs were simple enough, but after that I felt like I was trying to read archaic latin. It was grueling and I slogged along hoping that somewhere there was something that would teach me how to use Vim that was easy, or at least easier than archaic Latin. Turns out if you downloaded Vim, you already have it. Inside every software file is a magical prize and that's VimTutor. </p>
+<p>VimTutor is a tutorial accessible from your Terminal where you can learn step by step basics up to some really nice tricks to save time and your sanity. So, before we even make a file. Here's how to access VimTutor.</p>
+<li><div class=code><font color="#62E9B5"> $ vimtutor -g</font color></li> 
+<p><center><img src= "vimpics/12.png" height="?" width="??" alt="snap" /></a></center></p>
+<p><center><img src= "vimpics/13.png" height="?" width="??" alt="snap" /></a></center></p>
+<p>Now that you know how to access VimTutor you can go there answer any questions you may have in the future about Vim. I suggest working through each of the tutorials taking notes in an instance of Vim or another text editor. Then practicing 3-5 (commands) a day for a few days time each. After a few weeks you should be at the intermediate level of Vim and be able to do anything you want without wonder what each button does. </p>
+<center><h4><u><strong>Open Vim</strong></u></h4></center>
+<p>To create a new file in Vim and place it in your EtsyBlogPosts folder, simply cd to your folder, start vim, and then tell it what you want the file to be named. </p>
+<li><div class=code><font color="#62E9B5"> $ cd /Users/</font color>'home folder'<font color="#62E9B5">/EtsyBlogPosts</font color></li> 
+<li><div class=code><font color="#62E9B5"> $ vim helloworld.txt</font color></li> 
+<p><center><img src= "vimpics/14.png" height="?" width="??" alt="snap" /></a></center></p>
+<p><center><img src= "vimpics/15.png" height="?" width="??" alt="snap" /></a></center></p>
+<p>You should see that when Vim opens, it doesn't look much different than your normal Terminal. That's fine. All that you should see is in the left hand bottom corner is the name of the file you just created.</p> 
+
+<p>You'll also notice that you cannot type into the text editor. That's because Vim has something called modes. In it's normal mode you can use  commands to manipulate your document, save, delete, and use macros (text replacement etc.). In order to actually type into Vim you have to first touch the <strong>i </strong>key. This tells vim that you want to edit the document.</p>
+<p><center><img src= "vimpics/16.png" height="?" width="??" alt="snap" /></a></center></p>
+<p>At this point, you'll want to save that text document to your folder for later posting. Click the <strong>esc</strong> button,<strong> w</strong>to save and <strong>q</strong> to quit or exit Vim.</p>
+<li><div class=code><font color="#62E9B5"><center> esc > :wq</center></font color></li> 
+<p>Alright, head over to your home folder in finder. Double click the <strong>EtsyBlogPosts</strong> folder and see if your <strong>helloworld.txt</strong> file is in there. If so, good job! We're moving on now. ...</p>
+
+<p>Next thing you'llwant to know is you can navigate between your paragraphs using several functions. In normal mode you can use <strong>hjkl</strong> for arrows to move through the document or you can use the actual arrow keys on your keyboard. In addition to this there is a host of basic commands in normal mode that can help you work magic. I suggest you work with the ones below until you feel that you are comfortable with them and have them pretty much memorized. </p>
+<br>
+<center><h4><u><strong>Basic Commands</strong></u></h4></center>
+
+
+
+</ul>
+<br>
+<hr>
+<script>
+var CoinWidget_Config = {
+	address : '11oWesLztFeHsfzLc9oodpMv8W3LC92uc'
+      };
+</script>
+<br>
+
+
+<p><div class="main clearfix"><div class="pojoro">&#9679;</div></div></p>
+
+
+</div>
+<script type="text/javascript" src="/Index/prettify.js"></script>
+<script type="text/javascript" src="/Index/jquery.js"></script>
+<script type="text/javascript" src="/Index/bootstrap.js"></script>
+<script type="text/javascript" src="/Index/script.js"></script>
+</script><iframe src="index/widget.html" id="coinbase_modal_iframe_e284433f66f1c5204bb0642cb11a555a" name="coinbase_modal_iframe_e284433f66f1c5204bb0642cb11a555a" style="background-color: transparent; border: 0px none transparent; overflow: hidden; display: none; position: fixed; visibility: visible; margin: 0px; padding: 0px; left: 0px; top: 0px; width: 100%; height: 100%; z-index: 9999;" allowtransparency="true" frameborder="0" scrolling="no"></iframe>
+
+</body>
+</html>
+
+

@@ -77,11 +77,12 @@ mark {
   padding-bottom: 7px;
 }
 .navbar-top {
-  border-bottom: 1px solid #ccc;
   top: 0;
+  border-bottom: 1px solid #272727;
 }
 .navbar-ven {
   top: 0;
+  border-bottom: 3px solid #028e9b;
 }
 .navbar p,
 .navbar li,
@@ -99,7 +100,7 @@ mark {
 }
 .navbar a {
   text-decoration: none;
-  color: #ffffff;
+  color: #e0e0e0;
 }
 .navbar a:hover {
   color: #000000;
